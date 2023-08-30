@@ -65,3 +65,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=imtommyshelby&show_icons=true&locale=en" alt="Stats" />
 </div>
+
+<!-- Snake GIF -->
+![snake gif](https://github.com/imtommyshelby/imtommyshelby/blob/output/github-contribution-grid-snake.svg)
