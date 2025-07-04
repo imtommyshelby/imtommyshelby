@@ -5,8 +5,8 @@
 
 <div align="center">
 
-### 🧠 Tech Wizard • Builder • Dreamer  
-🖥️ B.Tech CSE (AI/ML) @ VIT | Founder-level Thinker | Clean UX Dev  
+### 🧠 Tech Savvy • Builder • Dreamer  
+🦾 AI Engineer | Writer | Football 
 🌐 [yonick.in](https://yonick.in) • 💼 [LinkedIn](https://www.linkedin.com/in/sagnik-sarkar-710/) • ✨ `@imtommyshelby`
 
 </div>
